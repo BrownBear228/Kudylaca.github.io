@@ -1,1 +1,3 @@
-# Kudylaca.github.io
+# Kudylaca
+
+## Syte for Kudylaca learning and translation
